@@ -1,3 +1,4 @@
+
 package pl.auction.auction_api.service.dto;
 
 import lombok.Data;
@@ -6,3 +7,4 @@ import lombok.Data;
 public class User {
     private Long id;
 }
+

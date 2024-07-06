@@ -23,4 +23,3 @@ public class BidService {
         return bidRepository.save(bid);
     }
 }
-

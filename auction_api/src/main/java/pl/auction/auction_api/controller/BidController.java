@@ -25,4 +25,3 @@ public class BidController {
         return ResponseEntity.status(HttpStatus.CREATED).body(createdBid);
     }
 }
-

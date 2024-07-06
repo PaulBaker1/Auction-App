@@ -23,4 +23,3 @@ public class Bid {
     private AuctionItem auctionItem;
     private Long userId;
 }
-
